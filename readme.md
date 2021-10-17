@@ -5,6 +5,18 @@ Completed by Jay Bihola
 ### Acknowledgements
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+### Activity 1
+
+![Activity 1 screenshot](https://user-images.githubusercontent.com/39041724/137636309-3324c0ea-00a4-4231-ac13-6b77368925d5.png)
+
+
+### Activity 5
+![Search Page](https://user-images.githubusercontent.com/39041724/137636316-001b84b7-5aa3-40c3-b82b-6dea7921ac2c.png)
+![Search Results](https://user-images.githubusercontent.com/39041724/137636318-3ca0be68-ab78-438b-8fb9-ab7dc9a1509c.png)
+
+### Activity 6
+The new UI is much more modern and user friendly as compared to the old UI, which looks very dated and hard to read. The main difference is the spacing which makes the various elements of the UI much more easy to read and understand. In the new UI, this has been solved with ample padding and spacing between elements, which was added through the CSS. The spacing allows for distinction between text boxes on the input fields as well as results on the results table.
+
 
 # CARTE Education Pathways
 
